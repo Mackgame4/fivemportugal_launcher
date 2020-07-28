@@ -12,7 +12,7 @@ Just a simple launcher i made inspired on nopixel launcher to my community, have
 8. Open .exe in same folder
 9. Have fun!
 
-### If need help contact me on my discord (🍹MrMack.exe🍹#4502) or (https://discord.io/mack)
+#### If need help contact me on my discord (🍹MrMack.exe🍹#4502) or (https://discord.io/mack)
 
 # Preview
 https://imgur.com/a/oMVKODv
