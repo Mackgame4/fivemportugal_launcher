@@ -15,4 +15,7 @@ Just a simple launcher i made inspired on nopixel launcher to my community, have
 # 📷 Preview
 https://imgur.com/a/oMVKODv
 
+# 📥 Download
+https://github.com/Mackgame4/fivemportugal_launcher
+
 ### If need help contact me on my discord (🍹MrMack.exe🍹#4502) or (https://discord.io/mack)
